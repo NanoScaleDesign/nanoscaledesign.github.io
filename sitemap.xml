@@ -6,208 +6,208 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://nanoscaledesign.github.io/</loc>
+  <loc>http://www.jamescannon.net/</loc>
+  <lastmod>2016-03-20T19:47:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/about-nikola/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/about-nikola/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/about-nikola/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/about-nikola/" />
+  <loc>http://www.jamescannon.net/archive.html</loc>
+  <lastmod>2016-03-20T19:50:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/archive.html</loc>
-  <lastmod>2016-03-20T18:17:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/blog/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/bootstrap-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/bootstrap-demo/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/categories/</loc>
+  <loc>http://www.jamescannon.net/blog/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/charts/</loc>
+  <loc>http://www.jamescannon.net/bootstrap-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/charts/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/bootstrap-demo/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/creating-a-theme/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/creating-a-theme/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/dr-nikolas-vendetta/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/dr-nikolas-vendetta/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/extending/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/extending/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/galleries/</loc>
+  <loc>http://www.jamescannon.net/categories/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/galleries/demo/</loc>
+  <loc>http://www.jamescannon.net/charts/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/charts/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/creating-a-theme/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/dr-nikolas-vendetta/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/extending/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/extending/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/galleries/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/handbook/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/handbook/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/internals/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/internals/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/ja/</loc>
+  <loc>http://www.jamescannon.net/galleries/demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/about-nikola/</loc>
+  <loc>http://www.jamescannon.net/handbook/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/handbook/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/internals/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/internals/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/ja/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/archive.html</loc>
-  <lastmod>2016-03-20T18:17:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/ja/blog/</loc>
+  <loc>http://www.jamescannon.net/ja/about-nikola/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/bootstrap-demo/</loc>
+  <loc>http://www.jamescannon.net/ja/archive.html</loc>
+  <lastmod>2016-03-20T19:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/ja/blog/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/categories/</loc>
+  <loc>http://www.jamescannon.net/ja/bootstrap-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/charts/</loc>
+  <loc>http://www.jamescannon.net/ja/categories/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/creating-a-theme/</loc>
+  <loc>http://www.jamescannon.net/ja/charts/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/dr-nikolas-vendetta/</loc>
+  <loc>http://www.jamescannon.net/ja/creating-a-theme/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/extending/</loc>
+  <loc>http://www.jamescannon.net/ja/dr-nikolas-vendetta/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/galleries/</loc>
+  <loc>http://www.jamescannon.net/ja/extending/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/galleries/demo/</loc>
+  <loc>http://www.jamescannon.net/ja/galleries/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/handbook/</loc>
+  <loc>http://www.jamescannon.net/ja/galleries/demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/internals/</loc>
+  <loc>http://www.jamescannon.net/ja/handbook/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/listings-demo/</loc>
+  <loc>http://www.jamescannon.net/ja/internals/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/path-handlers/</loc>
+  <loc>http://www.jamescannon.net/ja/listings-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/profile/</loc>
+  <loc>http://www.jamescannon.net/ja/path-handlers/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/quickref/</loc>
+  <loc>http://www.jamescannon.net/ja/profile/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/quickstart/</loc>
+  <loc>http://www.jamescannon.net/ja/quickref/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/slides-demo/</loc>
+  <loc>http://www.jamescannon.net/ja/quickstart/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/social_buttons/</loc>
+  <loc>http://www.jamescannon.net/ja/slides-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/ja/theming/</loc>
+  <loc>http://www.jamescannon.net/ja/social_buttons/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/listings-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/listings-demo/" />
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/listings/</loc>
+  <loc>http://www.jamescannon.net/ja/theming/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/listings/__pycache__/</loc>
+  <loc>http://www.jamescannon.net/listings-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/listings-demo/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/listings/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/listings/hello.py.html</loc>
-  <lastmod>2016-03-20T18:17:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nanoscaledesign.github.io/path-handlers/</loc>
+  <loc>http://www.jamescannon.net/listings/__pycache__/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/path-handlers/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/profile/</loc>
-  <lastmod>2016-03-20T18:16:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/profile/" />
+  <loc>http://www.jamescannon.net/listings/hello.py.html</loc>
+  <lastmod>2016-03-20T19:50:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/quickref/</loc>
+  <loc>http://www.jamescannon.net/path-handlers/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/quickref/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/path-handlers/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/quickstart/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/quickstart/" />
+  <loc>http://www.jamescannon.net/profile/</loc>
+  <lastmod>2016-03-20T18:18:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/profile/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/slides-demo/</loc>
+  <loc>http://www.jamescannon.net/quickref/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/slides-demo/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/quickref/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/social_buttons/</loc>
+  <loc>http://www.jamescannon.net/quickstart/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/social_buttons/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/quickstart/" />
  </url>
  <url>
-  <loc>http://nanoscaledesign.github.io/theming/</loc>
+  <loc>http://www.jamescannon.net/slides-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/theming/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/slides-demo/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/social_buttons/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/social_buttons/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/theming/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/theming/" />
  </url>
 </urlset>

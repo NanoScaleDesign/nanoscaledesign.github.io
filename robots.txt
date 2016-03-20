@@ -1,4 +1,4 @@
-Sitemap: http://nanoscaledesign.github.io/sitemapindex.xml
+Sitemap: http://www.jamescannon.net/sitemapindex.xml
 
 User-Agent: *
-Host: nanoscaledesign.github.io
+Host: www.jamescannon.net
