@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.jamescannon.net/</loc>
-  <lastmod>2016-03-20T19:47:00Z</lastmod>
+  <lastmod>2016-03-20T20:49:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/" />
  </url>
  <url>
@@ -17,7 +17,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/archive.html</loc>
-  <lastmod>2016-03-20T19:50:00Z</lastmod>
+  <lastmod>2016-03-20T20:55:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/blog/</loc>
@@ -72,7 +72,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <lastmod>2016-03-20T20:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/about-nikola/</loc>
@@ -80,7 +80,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/archive.html</loc>
-  <lastmod>2016-03-20T19:50:00Z</lastmod>
+  <lastmod>2016-03-20T20:55:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/blog/</loc>
@@ -127,6 +127,10 @@
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.jamescannon.net/ja/journal-publications/</loc>
+  <lastmod>2016-03-20T20:49:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://www.jamescannon.net/ja/listings-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
@@ -137,6 +141,10 @@
  <url>
   <loc>http://www.jamescannon.net/ja/profile/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/ja/publications/</loc>
+  <lastmod>2016-03-20T20:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/quickref/</loc>
@@ -159,6 +167,11 @@
   <lastmod>2016-03-20T06:10:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.jamescannon.net/journal-publications/</loc>
+  <lastmod>2016-03-20T20:49:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/journal-publications/" />
+ </url>
+ <url>
   <loc>http://www.jamescannon.net/listings-demo/</loc>
   <lastmod>2016-03-20T06:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/listings-demo/" />
@@ -173,7 +186,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/listings/hello.py.html</loc>
-  <lastmod>2016-03-20T19:50:00Z</lastmod>
+  <lastmod>2016-03-20T20:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/path-handlers/</loc>
@@ -184,6 +197,10 @@
   <loc>http://www.jamescannon.net/profile/</loc>
   <lastmod>2016-03-20T18:18:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/profile/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/publications/</loc>
+  <lastmod>2016-03-20T20:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/quickref/</loc>
