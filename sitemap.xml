@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://nanoscaledesign.github.io/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/about-nikola/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/about-nikola/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/archive.html</loc>
+  <lastmod>2016-03-20T18:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/blog/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/bootstrap-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/categories/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/charts/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/charts/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/creating-a-theme/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/dr-nikolas-vendetta/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/extending/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/extending/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/galleries/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/galleries/demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/handbook/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/handbook/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/internals/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/internals/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/about-nikola/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/archive.html</loc>
+  <lastmod>2016-03-20T18:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/blog/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/bootstrap-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/categories/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/charts/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/creating-a-theme/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/dr-nikolas-vendetta/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/extending/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/galleries/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/galleries/demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/handbook/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/internals/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/listings-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/path-handlers/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/profile/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/quickref/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/quickstart/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/slides-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/social_buttons/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/ja/theming/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/listings-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/listings-demo/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/listings/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/listings/__pycache__/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/listings/hello.py.html</loc>
+  <lastmod>2016-03-20T18:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/path-handlers/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/path-handlers/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/profile/</loc>
+  <lastmod>2016-03-20T18:16:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/profile/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/quickref/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/quickref/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/quickstart/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/quickstart/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/slides-demo/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/slides-demo/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/social_buttons/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/social_buttons/" />
+ </url>
+ <url>
+  <loc>http://nanoscaledesign.github.io/theming/</loc>
+  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://nanoscaledesign.github.io/ja/theming/" />
+ </url>
+</urlset>
