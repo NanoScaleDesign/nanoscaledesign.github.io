@@ -6,31 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.jamescannon.net/galleries/demo/rss.xml</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/galleries/rss.xml</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/ja/galleries/demo/rss.xml</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/ja/galleries/rss.xml</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://www.jamescannon.net/ja/rss.xml</loc>
-  <lastmod>2016-03-28T21:01:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://www.jamescannon.net/rss.xml</loc>
-  <lastmod>2016-03-28T21:01:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://www.jamescannon.net/sitemap.xml</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </sitemap>
 </sitemapindex>

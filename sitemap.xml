@@ -7,249 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.jamescannon.net/</loc>
-  <lastmod>2016-03-28T21:01:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/" />
  </url>
  <url>
-  <loc>http://www.jamescannon.net/2016/</loc>
-  <lastmod>2016-03-21T23:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/about-nikola/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/about-nikola/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/archive.html</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/blog/</loc>
-  <lastmod>2016-03-21T23:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/blog/expenses-fy2015/</loc>
-  <lastmod>2016-03-21T23:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/bootstrap-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/bootstrap-demo/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/categories/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/charts/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/charts/" />
- </url>
- <url>
   <loc>http://www.jamescannon.net/contact/</loc>
-  <lastmod>2016-03-28T21:01:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/contact/" />
  </url>
  <url>
-  <loc>http://www.jamescannon.net/creating-a-theme/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/creating-a-theme/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/dr-nikolas-vendetta/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/dr-nikolas-vendetta/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/extending/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/extending/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/galleries/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/galleries/demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/handbook/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/handbook/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/internals/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/internals/" />
- </url>
- <url>
   <loc>http://www.jamescannon.net/ja/</loc>
-  <lastmod>2016-03-28T21:01:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/2016/</loc>
-  <lastmod>2016-03-21T23:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/about-nikola/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/archive.html</loc>
-  <lastmod>2016-03-28T21:35:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/blog/</loc>
-  <lastmod>2016-03-21T23:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/blog/expenses-fy2015/</loc>
-  <lastmod>2016-03-21T23:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/bootstrap-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/categories/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/charts/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/contact/</loc>
-  <lastmod>2016-03-28T21:01:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/creating-a-theme/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/dr-nikolas-vendetta/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/extending/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/galleries/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/galleries/demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/handbook/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/internals/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/journal-publications/</loc>
-  <lastmod>2016-03-20T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/listings-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/path-handlers/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/profile/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/publications/</loc>
-  <lastmod>2016-03-20T20:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/quickref/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/quickstart/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/slides-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/social_buttons/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/ja/theming/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/journal-publications/</loc>
-  <lastmod>2016-03-20T20:49:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/journal-publications/" />
  </url>
  <url>
-  <loc>http://www.jamescannon.net/listings-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/listings-demo/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/listings/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/listings/__pycache__/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/listings/hello.py.html</loc>
-  <lastmod>2016-03-28T21:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/path-handlers/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/path-handlers/" />
- </url>
- <url>
   <loc>http://www.jamescannon.net/profile/</loc>
-  <lastmod>2016-03-20T18:18:00Z</lastmod>
+  <lastmod>2016-04-11T20:14:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/profile/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/publications/</loc>
-  <lastmod>2016-03-20T20:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.jamescannon.net/quickref/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/quickref/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/quickstart/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/quickstart/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/slides-demo/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/slides-demo/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/social_buttons/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/social_buttons/" />
- </url>
- <url>
-  <loc>http://www.jamescannon.net/theming/</loc>
-  <lastmod>2016-03-20T06:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/theming/" />
  </url>
 </urlset>
