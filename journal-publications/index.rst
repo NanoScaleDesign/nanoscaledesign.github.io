@@ -41,7 +41,7 @@
 
 | `Fabrication and evaluation of a thermoelectric micro-device on a free-standing substrate`_
 | J. Kurosaki, A. Yamamoto, S. Tanaka, J. Cannon, K. Miyazaki, H. Tsukamoto
-| *Electronic Materials*, **38** 7 pp1326-1330
+| *Electronic Materials*, **38** 7 pp1326-1330 (2009)
 
 .. _Thermally induced nonlinear vibration of single-walled carbon nanotubes: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.024306
 

@@ -1,0 +1,41 @@
+.. title: Mass transfer 2016
+.. slug: mass-transfer-2016
+.. date: 2016-08-07 12:25:57 UTC+09:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Mass Transfer 2016 (Spring semester)
+====================================
+
+As part of a 5-lecture course on mass transfer, during the first 2-3 lectures I experimented with a flipped-classroom approach using online videos that the students were required to watch prior to attending the class. I am releasing the 1st 4 videos below for general viewing, in the hope that they are useful for students beyond the 14 that attended the course here in Kyushu.
+
+Defining a concentration gradient
+---------------------------------
+
+How to define a concentration gradient in terms of mass and molar density.
+
+.. media:: https://www.youtube.com/watch?v=-FLv0uxLrDI
+
+Fick's law
+----------
+
+Defining Fick's law in terms of mass and molar density.
+
+.. media:: https://www.youtube.com/watch?v=fQnU-NN8OOc
+
+Defining a stationary medium
+----------------------------
+
+Defining a stationary medium in terms of net system velocity and flux.
+
+.. media:: https://www.youtube.com/watch?v=F0deXOH_YEM
+
+Diffusion coefficient equivalency
+---------------------------------
+
+The diffusion coefficient of each species in a mixture must be the same (assuming a stationary medium).
+
+.. media:: https://www.youtube.com/watch?v=NTlR18NyqAE

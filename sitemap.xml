@@ -7,38 +7,47 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.jamescannon.net/</loc>
-  <lastmod>2016-05-16T20:21:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/" />
  </url>
  <url>
   <loc>http://www.jamescannon.net/contact/</loc>
-  <lastmod>2016-04-11T20:14:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/contact/" />
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/</loc>
-  <lastmod>2016-05-16T20:21:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/contact/</loc>
-  <lastmod>2016-04-11T20:14:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/journal-publications/</loc>
-  <lastmod>2016-04-11T20:14:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/ja/mass-transfer-2016/</loc>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/profile/</loc>
-  <lastmod>2016-05-16T20:21:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/journal-publications/</loc>
-  <lastmod>2016-04-11T20:14:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/journal-publications/" />
  </url>
  <url>
+  <loc>http://www.jamescannon.net/mass-transfer-2016/</loc>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/mass-transfer-2016/" />
+ </url>
+ <url>
   <loc>http://www.jamescannon.net/profile/</loc>
-  <lastmod>2016-04-11T20:14:00Z</lastmod>
+  <lastmod>2016-08-07T04:48:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/profile/" />
  </url>
 </urlset>
