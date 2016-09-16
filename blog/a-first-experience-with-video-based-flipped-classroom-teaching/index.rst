@@ -73,6 +73,6 @@ Summary
 
 **My recommendation:** There are challenges concerning wider adoption by teaching staff, given the time, equipment and motivation required, however I can see this video-based flipped-classroom approach being an effective method of delivery for someone with reasonably deep experience of teaching the subject, when introduced gradually over a number of iterations. 
 
-.. _Mass Transfer: ../../mass-transfer-2016/index.html
+.. _Mass Transfer: ../../teaching/mass-transfer-2016/index.html
 .. _scalable-learning: https://www.scalable-learning.com
 .. _suggests: https://www.scalable-learning.com/external_documents/Manual%20-%20Flipped%20Teaching%20v.1.0.pdf
