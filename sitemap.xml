@@ -16,7 +16,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/archive.html</loc>
-  <lastmod>2016-09-16T00:55:00Z</lastmod>
+  <lastmod>2016-09-20T07:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/blog/</loc>
@@ -46,7 +46,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/archive.html</loc>
-  <lastmod>2016-09-16T00:55:00Z</lastmod>
+  <lastmod>2016-09-20T07:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/blog/</loc>
@@ -74,6 +74,11 @@
   <lastmod>2016-09-16T00:55:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.jamescannon.net/ja/teaching/fourier-analysis/</loc>
+  <lastmod>2016-09-20T07:09:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/fourier-analysis/" />
+ </url>
+ <url>
   <loc>http://www.jamescannon.net/ja/teaching/mass-transfer-2016/</loc>
   <lastmod>2016-09-16T00:55:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/mass-transfer-2016/" />
@@ -92,6 +97,11 @@
   <loc>http://www.jamescannon.net/profile/</loc>
   <lastmod>2016-09-16T00:55:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/profile/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/teaching/fourier-analysis/</loc>
+  <lastmod>2016-09-20T07:09:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/teaching/fourier-analysis/" />
  </url>
  <url>
   <loc>http://www.jamescannon.net/teaching/mass-transfer-2016/</loc>
