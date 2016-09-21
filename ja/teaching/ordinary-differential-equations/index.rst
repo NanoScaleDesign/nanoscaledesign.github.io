@@ -9,7 +9,7 @@
 
 This is the page for the Ordinary Differential Equations course being held at Kyushu University during Autumn 2016.
 
-The course PDF can be downlaoded `here`_.
+The course PDF can be downloaded `here`_.
 
 Source-code for the PDF is hosted at `Github`_.
 
