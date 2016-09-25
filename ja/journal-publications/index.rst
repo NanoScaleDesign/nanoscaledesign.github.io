@@ -1,11 +1,16 @@
 .. title: Journal Publications
 .. slug: journal-publications
-.. date: 2016-03-21 05:12:47 UTC+09:00
+.. date: 2016-09-26 06:05:00 UTC+09:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
+
+
+| `Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation`_
+| J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
+| *International Journal of Heat and Mass Transfer* **105** pp12-17 (2017)
 
 | `Thermally induced nonlinear vibration of single-walled carbon nanotubes`_
 | H. Koh, J. J. Cannon, T. Shiga, J. Shiomi, S. Chiashi, S. Maruyama
@@ -43,6 +48,7 @@
 | J. Kurosaki, A. Yamamoto, S. Tanaka, J. Cannon, K. Miyazaki, H. Tsukamoto
 | *Electronic Materials*, **38** 7 pp1326-1330 (2009)
 
+.. _Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation: http://www.sciencedirect.com/science/article/pii/S0017931016313576
 .. _Thermally induced nonlinear vibration of single-walled carbon nanotubes: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.024306
 
 .. _Surface structure determines dynamic wetting: http://www.nature.com/srep/2015/150216/srep08474/full/srep08474.html
