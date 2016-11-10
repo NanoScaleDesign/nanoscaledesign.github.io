@@ -1,10 +1,10 @@
 .. title: Contact
 .. slug: contact
 .. date: 2016-03-29 05:53:54 UTC+09:00
-.. tags: 
+.. tags: カノン・ジェームズ, 連絡先, アドレス, 電話番号, メールアドレス, ツイッター
 .. category: 
 .. link: 
-.. description: 
+.. description: 九州大学のカノン・ジェームズの連絡先
 .. type: text
 
 住所

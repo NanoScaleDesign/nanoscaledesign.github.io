@@ -1,10 +1,10 @@
 .. title: Contact
 .. slug: contact
 .. date: 2016-03-29 05:53:54 UTC+09:00
-.. tags: 
+.. tags: James Cannon, Contact details, Address, Telephone number, Twitter, Email address
 .. category: 
 .. link: 
-.. description: 
+.. description: Contact details for James Cannon, Kyushu University
 .. type: text
 
 Post

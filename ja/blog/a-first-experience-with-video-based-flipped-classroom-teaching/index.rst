@@ -1,10 +1,10 @@
 .. title: A first experience with video-based flipped-classroom teaching
 .. slug: a-first-experience-with-video-based-flipped-classroom-teaching
 .. date: 2016-08-15 03:00:46 UTC+09:00
-.. tags: 
+.. tags: Flipped-classroom, Teaching methods, Video creation, Experience
 .. category: 
 .. link: 
-.. description: 
+.. description: A description of my 1st experience with video-based flipped-classroom teaching
 .. type: text
 
 A first experience with video-based flipped-classroom teaching

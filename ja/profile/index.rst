@@ -1,7 +1,7 @@
 .. title: Profile
 .. slug: profile
 .. date: 2016-02-11 02:31:10 UTC+09:00
-.. tags: 
+.. tags: カノン・ジェームズ, 履歴書, プロファイル, 九州大学, 東京大学, university of surrey
 .. category: 
 .. link: 
 .. description: 九州大学のカノン・ジェームズの職歴と学歴

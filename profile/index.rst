@@ -1,13 +1,13 @@
 .. title: Profile
 .. slug: profile
-.. date: 2016-02-11 02:31:10 UTC+09:00
-.. tags: 
+.. date: 2016-11-11 03:54:00 UTC+09:00
+.. tags: James Cannon, Profile, Curriculum Vitae, Resume, Kyushu University, The University of Tokyo, University of Surrey
 .. category: 
 .. link: 
-.. description: Curriculum Vitae for James Cannon
+.. description: Curriculum Vitae for James Cannon, Kyushu University
 .. type: text
 
-I am a contract assistant professor within the Mechanical Engineering department at Kyushu University (Fukuoka, Japan) and deputy-director of the `School of Engineering International Centre`_. My position allows me to combine my interests concerning modern teaching methods and internationalisation with research into nano-scale thermo-physical properties of liquids and solids.
+I am a contract associate professor within the Mechanical Engineering department at Kyushu University (Fukuoka, Japan) and deputy-director of the `School of Engineering International Centre`_. My position allows me to combine my interests concerning modern teaching methods and internationalisation with research into nano-scale thermo-physical properties of liquids and solids.
 
 Curriculum Vitae
 ----------------

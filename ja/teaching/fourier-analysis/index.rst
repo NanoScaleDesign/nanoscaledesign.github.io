@@ -1,10 +1,10 @@
 .. title: Fourier Analysis, Autumn 2016
 .. slug: fourier-analysis
 .. date: 2016-09-20 16:06:31 UTC+09:00
-.. tags: 
+.. tags: Fourier Analysis, Fourier Series, Fourier Transform, Course, Lecture, Questions and Answers, Kyushu University
 .. category: 
 .. link: 
-.. description: 
+.. description: The homepage for the international Fourier Analysis course at Kyushu University
 .. type: text
 
 This is the page for the Fourier Analysis course being held at Kyushu University during Autumn 2016.

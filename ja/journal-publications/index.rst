@@ -1,10 +1,10 @@
 .. title: Journal Publications
 .. slug: journal-publications
 .. date: 2016-09-26 06:05:00 UTC+09:00
-.. tags: 
+.. tags: James Cannon, Publications, Journals
 .. category: 
 .. link: 
-.. description: 
+.. description: List of journal publications by James Cannon at Kyushu University
 .. type: text
 
 
