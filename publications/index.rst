@@ -1,12 +1,14 @@
-.. title: Journal Publications
-.. slug: journal-publications
+.. title: Publications
+.. slug: publications
 .. date: 2016-09-26 06:05:00 UTC+09:00
-.. tags: James Cannon, Publications, Journals
+.. tags: James Cannon, Publications, Journals, Conferences
 .. category: 
 .. link: 
-.. description: List of journal publications by James Cannon at Kyushu University
+.. description: List of journal publications and conference presentations by James Cannon at Kyushu University
 .. type: text
 
+Journals
+========
 
 | `Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation`_
 | J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
@@ -47,6 +49,19 @@
 | `Fabrication and evaluation of a thermoelectric micro-device on a free-standing substrate`_
 | J. Kurosaki, A. Yamamoto, S. Tanaka, J. Cannon, K. Miyazaki, H. Tsukamoto
 | *Electronic Materials*, **38** 7 pp1326-1330 (2009)
+
+Conferences
+===========
+
+(Currently only conference presentations from 2017 are listed.)
+
+| *Tuning interfacial thermal conductance in nano-silica-based thermal insulators.*
+| M. Obori, T. Kodama, J. J. Cannon, N. Shinohara, J. Shiomi
+| International Symposium on Micro and Nano Technology (19-22 March, Fukuoka, Japan)
+
+| *Computations of interfacial heat transfer from a multiscale viewpoint*
+| J. Shiomi, B. Shen, J. J. Cannon
+| International Symposium on Micro and Nano Technology (19-22 March, Fukuoka, Japan)
 
 .. _Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation: http://www.sciencedirect.com/science/article/pii/S0017931016313576
 .. _Thermally induced nonlinear vibration of single-walled carbon nanotubes: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.024306
