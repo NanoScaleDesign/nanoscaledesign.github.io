@@ -47,7 +47,7 @@ Recording videos
 
 So in this example, a 10-minute video took almost 2 hours to prepare. This was for roughly the 9th video I made, so I'd practised already with 8 previous videos.
 
-**Information density is high.** I did an anonymous survey in-class, and students claimed to take 2-3x the time of the video to study it, accounting for pauses and taking notes. So a 2-hour video is maybe equivalent to 20-30 minutes of class time, if the class was held at the pace that students were able to fully absorb the material. Thus the ratio of video preparation time to class time is about 4-6 times. Interestingly, scalable-learning `suggests`_ it should take no-longer than 1.1 to 1.5 times normal class time to record the lectures. I would love to hear from anyone reading this who has achieved such a ratio, how they managed that.
+**Information density is high.** I did an anonymous survey in-class, and students claimed to take 2-3x the time of the video to study it, accounting for pauses and taking notes. So a 10-minute video is maybe equivalent to 20-30 minutes of class time, if the class was held at the pace that students were able to fully absorb the material. Thus the ratio of video preparation time to class time is about 4-6 times. Interestingly, scalable-learning `suggests`_ it should take no-longer than 1.1 to 1.5 times normal class time to record the lectures. I would love to hear from anyone reading this who has achieved such a ratio, how they managed that.
 
 In-class
 --------
