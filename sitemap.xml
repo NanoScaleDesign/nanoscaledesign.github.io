@@ -16,7 +16,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/archive.html</loc>
-  <lastmod>2017-03-27T03:38:00Z</lastmod>
+  <lastmod>2017-04-16T17:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/blog/</loc>
@@ -62,7 +62,7 @@
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/archive.html</loc>
-  <lastmod>2017-03-27T03:38:00Z</lastmod>
+  <lastmod>2017-04-16T17:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/ja/blog/</loc>
@@ -117,6 +117,11 @@
   <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/mass-transfer-2016/" />
  </url>
  <url>
+  <loc>http://www.jamescannon.net/ja/teaching/mechanics/</loc>
+  <lastmod>2017-04-16T17:36:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/mechanics/" />
+ </url>
+ <url>
   <loc>http://www.jamescannon.net/ja/teaching/ordinary-differential-equations/</loc>
   <lastmod>2017-03-27T03:36:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/ordinary-differential-equations/" />
@@ -140,6 +145,11 @@
   <loc>http://www.jamescannon.net/teaching/mass-transfer-2016/</loc>
   <lastmod>2017-03-27T03:36:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/teaching/mass-transfer-2016/" />
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/teaching/mechanics/</loc>
+  <lastmod>2017-04-16T17:36:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="http://www.jamescannon.net/ja/teaching/mechanics/" />
  </url>
  <url>
   <loc>http://www.jamescannon.net/teaching/ordinary-differential-equations/</loc>
