@@ -7,7 +7,7 @@
 .. description: 九州大学のカノン・ジェームズの職歴と学歴
 .. type: text
 
-九州大学機械工学部門の准教授と `工学系国際交流センター`_ の副センター長です。
+九州大学機械工学部門の准教授と `工学系国際教育支援センター`_ の副センター長です。
 現代的教育方法・国際活動及びナノスケール熱物性研究について関心を持っております。
 
 履歴書
@@ -26,6 +26,6 @@
 :2005:
     University of Surrey, 物理学科 MPhys(修士・学士) (1st class)（英国）
 
-.. _工学系国際交流センター: http://irose.kyushu-u.ac.jp
+.. _工学系国際教育支援センター: http://irose.kyushu-u.ac.jp
 .. _熱エネルギー工学研究室（塩見研究室）: http://www.phonon.t.u-tokyo.ac.jp/
 .. _丸山塩見研究室: http://www.photon.t.u-tokyo.ac.jp/
