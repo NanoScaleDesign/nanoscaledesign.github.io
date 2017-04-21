@@ -53,15 +53,27 @@ Journals
 Conferences
 ===========
 
-(Currently only conference presentations from 2017 are listed.)
+(Currently only conference presentations from December 2016 are listed.)
 
 | *Tuning interfacial thermal conductance in nano-silica-based thermal insulators.*
 | M. Obori, T. Kodama, J. J. Cannon, N. Shinohara, J. Shiomi
-| International Symposium on Micro and Nano Technology (19-22 March, Fukuoka, Japan)
+| International Symposium on Micro and Nano Technology (19-22 March 2017, Fukuoka, Japan)
 
 | *Computations of interfacial heat transfer from a multiscale viewpoint*
 | J. Shiomi, B. Shen, J. J. Cannon
-| International Symposium on Micro and Nano Technology (19-22 March, Fukuoka, Japan)
+| International Symposium on Micro and Nano Technology (19-22 March 2017, Fukuoka, Japan)
+
+| *ReaxFF-based interfacial thermal conductance calculation of silica-silica interface*
+| M. Obori, J. J. Cannon, N. Shinohara, J. Shiomi
+| Symposium on Micro-Nano Science and Technology 2016 (16-18 December 2016, Tokyo, Japan)
+
+Other Talks
+===========
+
+| *Decoupling of liquid thermo-physical properties using a nano-scale approach*
+| J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
+| I2CNER Institute Interest Seminar, (13 October 2016, Fukuoka, Japan)
+
 
 .. _Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation: http://www.sciencedirect.com/science/article/pii/S0017931016313576
 .. _Thermally induced nonlinear vibration of single-walled carbon nanotubes: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.024306
