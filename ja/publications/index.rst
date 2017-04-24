@@ -53,7 +53,7 @@ Journals
 Conferences
 ===========
 
-(Currently only conference presentations from December 2016 are listed.)
+(December 2016 onwards)
 
 | *Tuning interfacial thermal conductance in nano-silica-based thermal insulators.*
 | M. Obori, T. Kodama, J. J. Cannon, N. Shinohara, J. Shiomi
@@ -69,6 +69,8 @@ Conferences
 
 Other Talks
 ===========
+
+(October 2016 onwards)
 
 | *Decoupling of liquid thermo-physical properties using a nano-scale approach*
 | J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
