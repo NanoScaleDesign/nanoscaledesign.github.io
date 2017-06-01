@@ -1,16 +1,25 @@
-.. title: Mass transfer 2016
-.. slug: mass-transfer-2016
+.. title: Mass transfer
+.. slug: mass-transfer
 .. date: 2016-08-07 12:25:57 UTC+09:00
-.. tags: Heat and Mass Transfer, Course, Lecture, Kyushu University, 2016, Flipped-classroom, videos, Youtube, Concentration gradients, Fick's law, Diffusion
+.. tags: Heat and Mass Transfer, Course, Lecture, Kyushu University, Flipped-classroom, videos, Youtube, Concentration gradients, Fick's law, Diffusion
 .. category: 
 .. link: 
-.. description: The homepage for the 2016 Mass-transfer course at Kyushu University
+.. description: The homepage for the Mass-transfer course at Kyushu University
 .. type: text
 
-Mass Transfer 2016 (Spring semester)
-====================================
+This is the page for the graduate Mass Transfer course held at Kyushu University during Spring 2017.
 
-As part of a 5-lecture course on mass transfer, during the first 2-3 lectures I experimented with a flipped-classroom approach using online videos that the students were required to watch prior to attending the class. I am releasing the 1st 7 videos below for general viewing, in the hope that they are useful for students beyond the 14 that attended the course here in Kyushu.
+The course PDF can be downloaded `here`_.
+
+Source-code for the PDF is hosted at `Github`_.
+
+.. _here: http://raw.githubusercontent.com/NanoScaleDesign/MassTransfer/master/mass_transfer.pdf
+.. _Github: https://github.com/NanoScaleDesign/MassTransfer
+
+Video content
+=============
+
+Part of the initial section of the course includes video content, as listed below.
 
 1. Defining a concentration gradient
 ------------------------------------
