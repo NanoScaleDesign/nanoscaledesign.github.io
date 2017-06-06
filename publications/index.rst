@@ -55,6 +55,10 @@ Conferences
 
 (December 2016 onwards)
 
+| *Control of interfacial thermal transport properties between silica nanoparticles by silane coupling method and its application for thermal insulation materials*
+| T. Kodama, M. Obori, N. Shinohara, J. J. Cannon, J. Shiomi
+| 第54回 日本伝熱シンポジウム 54th Japan Heat Transfer Symposium (24-26 May 2017, Saitama, Japan)
+
 | *Tuning interfacial thermal conductance in nano-silica-based thermal insulators.*
 | M. Obori, T. Kodama, J. J. Cannon, N. Shinohara, J. Shiomi
 | International Symposium on Micro and Nano Technology (19-22 March 2017, Fukuoka, Japan)
