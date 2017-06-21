@@ -43,7 +43,7 @@ Recording videos
 
    Uploading to Youtube and creating the page on the scalable-learning platform.
 
-.. image:: ../../images/video_lecture_timing.png
+.. image:: http://www.jamescannon.net/images/video_lecture_timing.png
 
 So in this example, a 10-minute video took almost 2 hours to prepare. This was for roughly the 9th video I made, so I'd practised already with 8 previous videos.
 
