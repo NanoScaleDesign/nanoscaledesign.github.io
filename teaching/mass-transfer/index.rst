@@ -13,10 +13,13 @@ The course PDF can be downloaded `here`_.
 
 Source-code for the PDF is hosted at `Github`_.
 
+Part of the 2017 course included presentations. You can see two `samples here`_.
+
 .. _here: http://raw.githubusercontent.com/NanoScaleDesign/MassTransfer/master/mass_transfer.pdf
 .. _Github: https://github.com/NanoScaleDesign/MassTransfer
+.. _samples here: ../mass-transfer-presentations-2017/index.html
 
-Video content
+Video lessons
 =============
 
 Part of the initial section of the course includes video content, as listed below.
