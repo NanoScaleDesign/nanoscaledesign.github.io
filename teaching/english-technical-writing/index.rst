@@ -7,8 +7,8 @@
 .. description: 
 .. type: text
 
-English Technical Writing 2016 (Spring semester)
-================================================
+Course introduction
+===================
 
 An introduction to the course can be viewed in English and Japanese below:
 
@@ -21,3 +21,10 @@ Japanese
 --------
 
 .. media:: https://www.youtube.com/watch?v=l6PsPujE9Kk
+
+Course information
+==================
+
+Information on how to share your google document is shown in the video below:
+
+.. media:: https://www.youtube.com/watch?v=vLQIrP7rO5c

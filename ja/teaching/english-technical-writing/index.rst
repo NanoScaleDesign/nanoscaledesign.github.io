@@ -7,8 +7,8 @@
 .. description: 
 .. type: text
 
-English Technical Writing 2016 (Spring semester)
-================================================
+コース紹介
+==========
 
 コースのビデオ紹介はこちらにあります：
 
@@ -21,3 +21,10 @@ English Technical Writing 2016 (Spring semester)
 ----
 
 .. media:: https://www.youtube.com/watch?v=nbd6hZQrXX8
+
+コース情報
+==========
+
+Google docsの資料を共有する方法に関する情報は下にビデオで示しています：
+
+.. media:: https://www.youtube.com/watch?v=vLQIrP7rO5c
