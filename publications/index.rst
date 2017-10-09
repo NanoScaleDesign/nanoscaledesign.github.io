@@ -76,6 +76,10 @@ Other Talks
 
 (October 2016 onwards)
 
+| `パラメーター読み込みとテンプレート利用の一つの方法`_
+| J. J. Cannon
+| PyFukuoka #1 (1 September 2017, Fukuoka, Japan)
+
 | *Decoupling of liquid thermo-physical properties using a nano-scale approach*
 | J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
 | I2CNER Institute Interest Seminar, (13 October 2016, Fukuoka, Japan)
@@ -98,4 +102,6 @@ Other Talks
 
 .. _Fundamental dynamics of flow through carbon nanotube membranes: http://www.springerlink.com/content/j68040735160tkql/
 
-.. _Fabrication and evaluation of a thermoelectric micro-device on a free-standing substrate : http://www.springerlink.com/content/v82542411622h75k/
+.. _Fabrication and evaluation of a thermoelectric micro-device on a free-standing substrate: http://www.springerlink.com/content/v82542411622h75k/
+
+.. _パラメーター読み込みとテンプレート利用の一つの方法: https://fukuoka-python.connpass.com/event/60743/
