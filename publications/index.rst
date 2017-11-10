@@ -55,6 +55,11 @@ Conferences
 
 (December 2016 onwards)
 
+| *プロパンベースアルコールの熱伝導率に及ぼす水酸基の影響:分子動力学シミュレーションによる検討*
+| *Investigation into influence of hydroxyl group placement on the thermal conductivity of propane-base alcohols using molecular dynamics simulation*
+| L. Manjunatha, H. Takamatsu, J. J. Cannon
+| 第8回マイクロ・ナノ工学シンポジウム The 8th Symposium on Micro-Nano Science and Technology (31 October to 2 November 2017, Hiroshima, Japan)
+
 | *Control of interfacial thermal transport properties between silica nanoparticles by silane coupling method and its application for thermal insulation materials*
 | T. Kodama, M. Obori, N. Shinohara, J. J. Cannon, J. Shiomi
 | 第54回 日本伝熱シンポジウム 54th Japan Heat Transfer Symposium (24-26 May 2017, Saitama, Japan)
