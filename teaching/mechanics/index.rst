@@ -1,17 +1,22 @@
-.. title: Mechanics, Spring 2017
+.. title: Mechanics I and II
 .. slug: mechanics
-.. date: 2017-04-17 02:15:24 UTC+09:00
+.. date: 2018-04-05 15:12:35 UTC+09:00
 .. tags: Mechanics, Dynamics, Course, Lecture, Questions and Answers, Kyushu University
 .. category: 
 .. link: 
 .. description: The homepage for the international Mechanics course at Kyushu University
 .. type: text
 
-This is the page for the specialist Mechanics course held at Kyushu University during Spring 2017.
+This is the page for the specialist Mechanics courses held at Kyushu University during Spring and Summer quarters 2018.
 
-The course PDF can be downloaded `here`_.
+The course PDF for the spring quarter can be downloaded `here`_.
 
 Source-code for the PDF is hosted at `Github`_.
 
-.. _here: http://raw.githubusercontent.com/NanoScaleDesign/Mechanics/master/mechanics.pdf
+---
+
+The PDF used in spring-semester 2017 is `also available`_.
+
+.. _here: http://raw.githubusercontent.com/NanoScaleDesign/Mechanics/master/mechanics_I.pdf
 .. _Github: https://github.com/NanoScaleDesign/Mechanics
+.. _also available: https://raw.githubusercontent.com/NanoScaleDesign/Mechanics/e8afb178f28fa48cf934ff5ded3e94c08ebff32d/mechanics.pdf
