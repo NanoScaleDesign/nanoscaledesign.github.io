@@ -17,6 +17,6 @@ Source-code for the PDF is hosted at `Github`_.
 
 The PDF used in spring-semester 2017 is `also available`_.
 
-.. _here: http://raw.githubusercontent.com/NanoScaleDesign/Mechanics/master/mechanics_I.pdf
+.. _here: http://raw.githubusercontent.com/NanoScaleDesign/Mechanics/master/mechanics.pdf
 .. _Github: https://github.com/NanoScaleDesign/Mechanics
 .. _also available: https://raw.githubusercontent.com/NanoScaleDesign/Mechanics/e8afb178f28fa48cf934ff5ded3e94c08ebff32d/mechanics.pdf
