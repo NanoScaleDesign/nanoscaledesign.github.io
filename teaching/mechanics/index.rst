@@ -1,15 +1,15 @@
-.. title: Mechanics I and II
+.. title: Advanced Mechanics
 .. slug: mechanics
-.. date: 2018-04-05 15:12:35 UTC+09:00
+.. date: 2018-04-23 15:56:19 UTC+09:00
 .. tags: Mechanics, Dynamics, Course, Lecture, Questions and Answers, Kyushu University
 .. category: 
 .. link: 
 .. description: The homepage for the international Mechanics course at Kyushu University
 .. type: text
 
-This is the page for the specialist Mechanics courses held at Kyushu University during Spring and Summer quarters 2018.
+This is the page for the specialist Mechanics courses held at Kyushu University during the Spring semester 2018.
 
-The course PDF for the spring quarter can be downloaded `here`_.
+The course PDF can be downloaded `here`_.
 
 Source-code for the PDF is hosted at `Github`_.
 
