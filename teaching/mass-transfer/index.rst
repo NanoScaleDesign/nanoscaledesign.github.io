@@ -1,13 +1,13 @@
 .. title: Mass transfer
 .. slug: mass-transfer
-.. date: 2016-08-07 12:25:57 UTC+09:00
+.. date: 2018-05-15 11:16:55 UTC+09:00
 .. tags: Heat and Mass Transfer, Course, Lecture, Kyushu University, Flipped-classroom, videos, Youtube, Concentration gradients, Fick's law, Diffusion
 .. category: 
 .. link: 
 .. description: The homepage for the Mass-transfer course at Kyushu University
 .. type: text
 
-This is the page for the graduate Mass Transfer course held at Kyushu University during Spring 2017.
+This is the page for the graduate Mass Transfer course held at Kyushu University during Spring 2018.
 
 The course PDF can be downloaded `here`_.
 

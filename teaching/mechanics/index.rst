@@ -7,7 +7,7 @@
 .. description: The homepage for the international Mechanics course at Kyushu University
 .. type: text
 
-This is the page for the specialist Mechanics courses held at Kyushu University during the Spring semester 2018.
+This is the page for the specialist Mechanics course held at Kyushu University during the spring semester 2018.
 
 The course PDF can be downloaded `here`_.
 
@@ -15,7 +15,7 @@ Source-code for the PDF is hosted at `Github`_.
 
 ---
 
-The PDF used in spring-semester 2017 is `also available`_.
+For reference, the PDF for the 2017 course is `also available`_.
 
 .. _here: http://raw.githubusercontent.com/NanoScaleDesign/Mechanics/master/mechanics.pdf
 .. _Github: https://github.com/NanoScaleDesign/Mechanics

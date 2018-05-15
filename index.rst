@@ -7,13 +7,13 @@
 .. description:  Homepage for James Cannon, Kyushu University, Japan
 .. type: text
 
-I am a contract associate professor within the Mechanical Engineering department at Kyushu University (Fukuoka, Japan) and deputy-director of the `International Education Support Centre for Engineering`_. My position allows me to combine research into nano-scale thermo-physical properties of liquids and solids with my interests in modern teaching methods and internationalisation.
+I am a project associate professor within the Mechanical Engineering department at Kyushu University (Fukuoka, Japan) and deputy-director of the `International Education Support Centre for Engineering`_. My position allows me to combine research into nano-scale thermo-physical properties of liquids and solids with my interests in modern teaching methods and internationalisation.
 
 Curriculum Vitae
 ----------------
 
 :2016-present:
-    Contract Associate Professor, Faculty of Engineering, Kyushu University, Fukuoka Japan
+    Project Associate Professor, Faculty of Engineering, Kyushu University, Fukuoka, Japan
 :2013-2016:
     Research Assistant Professor, `TEEL (Shiomi) lab`_, University of Tokyo, Japan
 :2010-2013:
