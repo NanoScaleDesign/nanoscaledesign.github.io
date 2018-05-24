@@ -55,6 +55,11 @@ Conferences
 
 (December 2016 onwards)
 
+| *The influence of temperature, pressure and NaCl concentration on the electrical conductivity of geothermal flows studied using molecular dynamics simulation*
+| *分子動力学を用いた地熱流体の電気伝導度に対する温度・圧力・NaCl濃度の影響*
+| 榎丸 眞、J. Cannon 、澤山 和貴、北村 圭吾、藤光 康宏
+| Japan Geoscience Union Meeting 2018 (20 May to 24 May 2018, Chiba, Japan)
+
 | *プロパンベースアルコールの熱伝導率に及ぼす水酸基の影響:分子動力学シミュレーションによる検討*
 | *Investigation into influence of hydroxyl group placement on the thermal conductivity of propane-base alcohols using molecular dynamics simulation*
 | L. Manjunatha, H. Takamatsu, J. J. Cannon
