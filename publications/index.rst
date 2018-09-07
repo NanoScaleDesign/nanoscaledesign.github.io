@@ -1,6 +1,6 @@
 .. title: Publications
 .. slug: publications
-.. date: 2016-09-26 06:05:00 UTC+09:00
+.. date: 2018-09-07 16:45:00 UTC+09:00
 .. tags: James Cannon, Publications, Journals, Conferences
 .. category: 
 .. link: 
@@ -9,6 +9,10 @@
 
 Journals
 ========
+
+| `Molecular dynamics study on heat conduction in poly(3,4-ethylenedioxythiophene)`_
+| S. Maeno, J. J. Cannon, T. Shiga, J. Shiomi
+| *Japanese Journal of Applied Physics* **57** 10 (2018)
 
 | `Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation`_
 | J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
@@ -55,6 +59,16 @@ Conferences
 
 (December 2016 onwards)
 
+| *Dependence of electrical conductivity of subcritical fluid on temperature, pressure and NaCl concentration*
+| *温度・圧力およびNaCl濃度条件に対する亜臨界流体の電気伝導度の依存性*
+| 榎丸 眞, J. Cannon, 澤山 和貴, 藤光 康宏
+| The Geothermal Research Society of Japan (13-16 November 2018, Tokyo, Japan)
+
+| *An investigation into application of the Green-Kubo method in molecular simulation to help understand the mechanisms of thermal conductivity of alcohols.*
+| *Green-Kubo法を用いた分子動力学シミュレーションによるアルコールの熱伝導率の検討*
+| L. Manjunatha, H. Takamatsu, J. J. Cannon
+| 日本機械学会 熱工学コンファレンス JSME Thermal Engineering conference (20-21 October 2018, Toyama, Japan)
+
 | *The influence of temperature, pressure and NaCl concentration on the electrical conductivity of geothermal flows studied using molecular dynamics simulation*
 | *分子動力学を用いた地熱流体の電気伝導度に対する温度・圧力・NaCl濃度の影響*
 | 榎丸 眞、J. Cannon 、澤山 和貴、北村 圭吾、藤光 康宏
@@ -94,6 +108,8 @@ Other Talks
 | J. J. Cannon, T. Kawaguchi, T. Kaneko, T. Fuse, J. Shiomi
 | I2CNER Institute Interest Seminar, (13 October 2016, Fukuoka, Japan)
 
+
+.. _Molecular dynamics study on heat conduction in poly(3,4-ethylenedioxythiophene): https://doi.org/10.7567/JJAP.57.101601
 
 .. _Understanding decoupling mechanisms of liquid-mixture transport properties through regression analysis with structural perturbation: http://www.sciencedirect.com/science/article/pii/S0017931016313576
 .. _Thermally induced nonlinear vibration of single-walled carbon nanotubes: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.024306
