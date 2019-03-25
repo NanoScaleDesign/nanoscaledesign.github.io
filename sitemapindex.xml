@@ -6,47 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.jamescannon.net/categories/experience.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
+  <loc>http://www.jamescannon.net/galleries/rss.xml</loc>
+  <lastmod>2019-03-25T23:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.jamescannon.net/categories/flipped-classroom.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/categories/teaching-methods.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/categories/video-creation.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/ja/categories/experience.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/ja/categories/flipped-classroom.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/ja/categories/teaching-methods.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.jamescannon.net/ja/categories/video-creation.xml</loc>
-  <lastmod>2017-09-28T01:35:00Z</lastmod>
+  <loc>http://www.jamescannon.net/ja/galleries/rss.xml</loc>
+  <lastmod>2019-03-25T23:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://www.jamescannon.net/ja/rss.xml</loc>
-  <lastmod>2018-08-15T08:49:00Z</lastmod>
+  <lastmod>2019-03-25T23:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://www.jamescannon.net/rss.xml</loc>
-  <lastmod>2018-08-15T08:49:00Z</lastmod>
+  <lastmod>2019-03-25T23:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://www.jamescannon.net/sitemap.xml</loc>
-  <lastmod>2018-10-01T03:49:00Z</lastmod>
+  <lastmod>2019-03-25T23:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>

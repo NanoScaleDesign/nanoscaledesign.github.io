@@ -13,10 +13,6 @@ The course PDF can be downloaded `here`_.
 
 Source-code for the PDF is hosted at `Github`_.
 
-----
-
-The `2017 course`_ is also available for reference.
-
 .. _here: https://raw.githubusercontent.com/NanoScaleDesign/OrdinaryDifferentialEquations/master/ode.pdf
 .. _Github: https://github.com/NanoScaleDesign/OrdinaryDifferentialEquations
 .. _2017 course: https://raw.githubusercontent.com/NanoScaleDesign/OrdinaryDifferentialEquations/0d232af7d53a1abf0241e1b30ea5c7f9fa2ab276/ode.pdf
