@@ -9,6 +9,14 @@
 
 This is the page for the specialist Mechanics course held at Kyushu University during the spring semester 2019.
 
+Timetable
+=========
+
+ 
++---+---+---+---+---+
+|    |   |   |   |   |
++---+---+---+---+---+
+
 The course PDF can be downloaded `here`_.
 
 Source-code for the PDF is hosted at `Github`_.
