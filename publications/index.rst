@@ -55,6 +55,16 @@ Journals
 | *Electronic Materials*, **38** 7 pp1326-1330 (2009)
 |
 
+Society articles
+================
+
+(December 2016 onwards)
+
+| How Information Technology enables Challenge-Based Active Learning in Engineering Education
+| James J. Cannon
+| *Japanese Society for Engineer Education (工学教育協会)*, **66** 5 pp55-61 (2018)
+|
+
 Conferences
 ===========
 
