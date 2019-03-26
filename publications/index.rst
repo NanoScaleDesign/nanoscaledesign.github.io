@@ -1,6 +1,6 @@
 .. title: Publications
 .. slug: publications
-.. date: 2018-09-07 16:45:00 UTC+09:00
+.. date: 2019-03-26 09:41:45 UTC+09:00
 .. tags: James Cannon, Publications, Journals, Conferences
 .. category: 
 .. link: 
