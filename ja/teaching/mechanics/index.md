@@ -20,7 +20,7 @@ Class &nbsp; | Date &nbsp; &nbsp; &nbsp;| Note
 4 | 13 May |
 5 | 20 May |
 6 | 27 May |
-7 | 3 June | *Mid-term review (tentitive)*
+7 | 3 June | *Mid-term review (tentative)*
 8 | 10 June |
 9 | 17 June |
 10 | 24 June |
@@ -28,11 +28,11 @@ Class &nbsp; | Date &nbsp; &nbsp; &nbsp;| Note
 12 | 9 July
 13 | 16 July | *Tuesday class*
 14 | 22 July |
-15 | 29 July | *Final exam (tentitive)*
+15 | 29 July | *Final exam (tentative)*
 
 Assessment method
 =================
 
 - Final exam (80%)
 - Coursework (15%)
-- Logbook (5%)
+- Logbook and challenge progress (5%)
