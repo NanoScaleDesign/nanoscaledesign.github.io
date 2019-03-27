@@ -9,6 +9,12 @@
 
 This is the page for the specialist Mechanics course held at Kyushu University during the spring semester 2019.
 
+Required material in class
+==========================
+
+- Engineering Mechanics Dynamics by J. Meriam and L. Kraige, 6th Edition (please borrow from the Mechanical Engineering Office on the 4th floor)
+- An internet-capable device to access online portions of the course
+
 Timetable (2019)
 =========
 
