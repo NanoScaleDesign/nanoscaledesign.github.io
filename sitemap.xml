@@ -133,6 +133,11 @@
   <lastmod>2019-03-25T23:18:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.jamescannon.net/ja/teaching/efe2019/</loc>
+  <lastmod>2019-12-16T21:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/efe2019/" />
+ </url>
+ <url>
   <loc>http://www.jamescannon.net/ja/teaching/english-technical-writing/</loc>
   <lastmod>2019-03-25T23:18:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="http://www.jamescannon.net/teaching/english-technical-writing/" />
@@ -221,6 +226,10 @@
  <url>
   <loc>http://www.jamescannon.net/publications/</loc>
   <lastmod>2019-03-25T23:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.jamescannon.net/teaching/efe2019/</loc>
+  <lastmod>2019-12-16T21:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.jamescannon.net/teaching/english-technical-writing/</loc>
